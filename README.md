@@ -1,1 +1,1 @@
-# odin-recipes
+Create a webpage links with two recipes (banana pancakes and chicken stir-fry)
