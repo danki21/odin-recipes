@@ -1,0 +1,21 @@
+.homepage { 
+    background-color: #219ebc;
+}
+
+.homepage h1 {
+    color: white;
+}
+
+.second-page {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #dda15e;
+}
+
+.third-page {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cdb4db;
+}
+
+p {
+    font-weight: 600;
+}
